@@ -1,0 +1,6 @@
+name: KitPvP
+version: 2.0.0
+main: KitPvP\KitPvP 
+api: [3.0.0]
+author: JonyGamesYT9 
+update-info: "New Configurable ScoreBoard and BossBar in Config.yml, Resolved Bugs && Remove Score & Boss on Change Level!!!"
